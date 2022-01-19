@@ -1,0 +1,3 @@
+In order to launch you need to be installed postgresql db
+django framework
+psycopg2 for db
